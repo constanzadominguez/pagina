@@ -1,0 +1,106 @@
+*{ margin: 2;
+
+}
+h1 {
+	color: #6d3580;
+	font-size: 50px;
+	font-family: 'Oswald', sans-serif;
+	/*background-color: gray*/
+	padding: 30px;
+	/*margin: 10px;
+	border: 4px solid white;
+	border-radius: 50px;
+	margin-left: auto;*/
+	
+
+
+}
+h2 {
+/*
+padding: 100px;*/
+color: GRAY;
+	font-size: 20px;
+	font-family: 'Raleway',sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	/*background-color: pink;*/
+
+}
+p {
+
+text-align: center;
+	font-family: arial;
+	color: green;
+	/*padding: 50px;*/
+
+}
+
+a {
+text-decoration: none;
+
+}
+
+a:hover {
+
+color:green;
+}
+
+img
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#banner
+{ 
+	text-align:center;
+	background-image: url("https://images.unsplash.com/photo-1550129744-308bf60c93b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=625&q=80");
+	background-size: cover;
+	height: 100vh;
+     width: 100vw;
+     text-shadow: 1px 1px 5px black;
+     /*padding: 50px;*/
+     }
+#banner h1
+{ 
+color: white;
+font-size: 80px;
+font-family: 'Open+Sans', sans-serif;
+}
+
+#banner p
+{ 
+color:white;
+opacity: 0.8; 
+font-size: 30px;
+font-weight: lighter;
+font-family: 'Oswald', sans-serif;
+
+}
+
+.second-line
+{ 
+color:white;
+}
+
+.header p
+{ 
+font-size: 40px
+}
+
+.image p
+{ 
+font-size: 40px
+}
+
+#footer
+{ 
+padding: 30px;
+background-color: rgb(30,30,30);
+color: lightgrey;
+}
+
+
+
+/*body */
+body 
